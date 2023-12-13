@@ -1,5 +1,10 @@
 # Behringer RD-6 MIDI template
 
+![abominalbeArt](https://github.com/drmarkreuter/RD6MIDItemplate/blob/main/images/RD-6%20MIDI%20templates.png)
+
+![abominalbeArt](/images/RD-6%20MIDI%20templates.png)
+
+
 MIDI templates for using the Behringer RD-6 drum machine
 
 - Single MIDI file, single track with an example drum loop for the RD-6
