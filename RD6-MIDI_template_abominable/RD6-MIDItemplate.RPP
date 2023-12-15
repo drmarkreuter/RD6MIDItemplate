@@ -1,0 +1,877 @@
+<REAPER_PROJECT 0.1 "5.984/OSX64" 1702498775
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 0
+  ZOOM 48.22530864197517 0 0
+  VZOOMEX 6
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 1
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN 88bpm-cookiedough1
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 2 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxAAAA==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 100 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERFXLIST
+    SHOW 0
+    LASTSEL 0
+    DOCKED 0
+    BYPASS 0 0 0
+    <JS loser/masterLimiter ""
+      -3.000000 200.000000 100.000000 0.000000 250.000000 -0.100000 0.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    >
+    FLOATPOS 32 528 554 217
+    FXID {704ECF36-E681-784C-8043-654B909CB592}
+    WAK 0
+  >
+  <MASTERPLAYSPEEDENV
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {19E736A9-B750-3148-A945-5C1BEF8E8EAF}
+    NAME RD6folder
+    PEAKCOL 16777471
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 1 1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {19E736A9-B750-3148-A945-5C1BEF8E8EAF}
+    PERF 0
+    MIDIOUT 1185
+    MAINSEND 1 0
+  >
+  <TRACK {519B017A-0473-8F44-9F98-D3AD2CFF947D}
+    NAME kick
+    PEAKCOL 16777471
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {519B017A-0473-8F44-9F98-D3AD2CFF947D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E2A023AD-FAC1-AB40-9F32-7AF872A7E3A2}
+      IID 2
+      NAME RD6kick
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {891EC3F2-9AAC-DF4D-80F1-478CAF6BEAF8}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {394D3D07-A43F-E84C-B811-A57F7665C792}
+        E 0 90 24 6c
+        E 240 80 24 00
+        E 720 90 24 77
+        E 240 80 24 00
+        e 720 90 24 6c
+        e 240 80 24 00
+        E 720 90 24 6c
+        E 240 80 24 00
+        E 720 90 24 7f
+        E 240 80 24 00
+        E 0 90 24 5e
+        E 240 80 24 00
+        E 480 90 24 5e
+        E 240 80 24 00
+        E 720 90 24 5e
+        E 240 80 24 00
+        E 720 90 24 5e
+        E 240 80 24 00
+        E 720 b0 7b 00
+        CHASE_CC_TAKEOFFS 1
+        GUID {17AD0A16-30DF-8B46-9F07-3D0BEDAC794F}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 45136
+        VELLANE 64 100 0
+        CFGEDITVIEW 0 0.071875 71 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 226
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.25 174 48 1230 627 0 0 0 0 0 0 1 0 0 0.8 0 0 1 64
+      >
+    >
+  >
+  <TRACK {F5834B48-0460-BE46-98F0-29748A919810}
+    NAME Snare
+    PEAKCOL 16777471
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F5834B48-0460-BE46-98F0-29748A919810}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FB30E520-3D9B-D24E-AFCB-92D1135489AE}
+      IID 6
+      NAME RD6-snare
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B4DD8455-6C44-8A4D-95BB-A73075E4D440}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {E5BE2F16-602F-0E43-BEFF-3253E3CDC67B}
+        E 480 90 28 58
+        E 480 80 28 00
+        E 1440 90 28 58
+        E 480 80 28 00
+        E 1200 90 28 42
+        E 240 80 28 00
+        E 480 90 28 6a
+        E 240 80 28 00
+        E 0 90 28 58
+        E 480 80 28 00
+        E 1200 90 28 6a
+        E 240 80 28 00
+        E 240 90 28 4a
+        E 240 80 28 00
+        E 240 b0 7b 00
+        CHASE_CC_TAKEOFFS 1
+        GUID {02521612-A12F-D342-B402-2FE394D65A32}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 45140
+        VELLANE 64 100 0
+        CFGEDITVIEW 0 0.071875 68 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 226
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.25 174 48 1230 627 0 0 0 0 0 0 1 0 0 0.8 0 0 1 64
+      >
+    >
+  >
+  <TRACK {E1BE43CF-8E12-5D4A-A6CF-8145E8761B1D}
+    NAME "Low Tom"
+    PEAKCOL 16777471
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E1BE43CF-8E12-5D4A-A6CF-8145E8761B1D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {084E9FE6-1732-2D4A-9915-FC77DF132768}
+      IID 7
+      NAME RD-6
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B4A69D7D-493D-4F45-A10A-DF169D6F865A}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {3401304C-36E2-3241-9479-15B5AAA72CA3}
+        E 720 90 2d 62
+        E 240 80 2d 00
+        E 480 90 2d 5d
+        E 240 80 2d 00
+        E 720 90 2d 5b
+        E 240 80 2d 00
+        E 1440 90 2d 5d
+        E 240 80 2d 00
+        e 240 90 2d 5d
+        e 240 80 2d 00
+        E 480 90 2d 5d
+        E 240 80 2d 00
+        E 1440 90 2d 5d
+        E 240 80 2d 00
+        E 240 90 2d 5d
+        E 240 80 2d 00
+        E 0 b0 7b 00
+        CHASE_CC_TAKEOFFS 1
+        GUID {21C0C106-FCC7-3D41-8410-CFE64BAE5B01}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 45141
+        VELLANE 64 100 0
+        CFGEDITVIEW 0 0.061476 72 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 226
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.25 161 4 1217 583 0 0 0 0 0 0 1 0 0 0.8 0 0 1 64
+      >
+    >
+  >
+  <TRACK {58060BA7-41A5-F047-9998-3519A15AAAE7}
+    NAME "High Tom"
+    PEAKCOL 16777471
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {58060BA7-41A5-F047-9998-3519A15AAAE7}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2BE3A25E-40C5-3E45-A6D2-864E6BD8C15A}
+      IID 8
+      NAME RD-6
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9E1A1B87-54EE-B846-8952-8C9E9755C2D7}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {25C553EB-A73F-DA42-BFB8-82E5FCFFC9B6}
+        E 960 90 32 5a
+        E 240 80 32 00
+        E 480 90 32 5a
+        E 240 80 32 00
+        E 240 90 32 5a
+        E 240 80 32 00
+        E 1440 90 32 5a
+        E 240 80 32 00
+        E 960 90 32 5a
+        E 240 80 32 00
+        e 1440 90 32 5a
+        e 240 80 32 00
+        E 240 90 32 5a
+        E 240 80 32 00
+        E 240 b0 7b 00
+        CHASE_CC_TAKEOFFS 1
+        GUID {9A361559-5D8C-7547-B357-DBA6E3791C9C}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 45142
+        VELLANE 64 100 0
+        CFGEDITVIEW 0 0.061476 72 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 226
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.25 161 4 1217 583 0 0 0 0 0 0 1 0 0 0.8 0 0 1 64
+      >
+    >
+  >
+  <TRACK {D1C2ECF6-8FBD-A34A-8BFB-546B365E08F3}
+    NAME Clap
+    PEAKCOL 16777471
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D1C2ECF6-8FBD-A34A-8BFB-546B365E08F3}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {14FB1B63-64FC-F24E-9C96-B20ED944C779}
+      IID 9
+      NAME RD-6
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B0E181B6-852C-6F49-BB80-3A8956012E15}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {AA0E1350-A76E-AD47-BF18-20C9761DDD8A}
+        E 960 90 27 68
+        E 480 80 27 00
+        E 1440 90 27 68
+        E 480 80 27 00
+        E 1440 90 27 68
+        E 240 80 27 00
+        E 0 90 27 68
+        E 240 80 27 00
+        E 1440 90 27 68
+        E 240 80 27 00
+        e 240 90 27 68
+        e 240 80 27 00
+        E 240 b0 7b 00
+        CHASE_CC_TAKEOFFS 1
+        GUID {709C96AE-BD9C-8F4F-8DE2-E8F676F4E661}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 45143
+        VELLANE 64 100 0
+        CFGEDITVIEW 0 0.061476 72 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 226
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.25 161 4 1217 583 0 0 0 0 0 0 1 0 0 0.8 0 0 1 64
+      >
+    >
+  >
+  <TRACK {07A2101F-343D-B04F-A874-EF7C15EC0B5A}
+    NAME Cymbal
+    PEAKCOL 16777471
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {07A2101F-343D-B04F-A874-EF7C15EC0B5A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B08E38A0-A3C0-CB4A-8C13-B7586E3CEDAE}
+      IID 10
+      NAME RD-6
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {74CF1721-855A-E84A-80D2-6CB9FF364833}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {EAB84054-2274-2C4E-ADBF-C83D6737DB6B}
+        E 0 90 33 43
+        E 960 80 33 00
+        e 960 90 33 1a
+        e 480 80 33 00
+        E 1440 90 33 3e
+        E 960 80 33 00
+        E 960 90 33 21
+        E 720 80 33 00
+        E 1200 b0 7b 00
+        CHASE_CC_TAKEOFFS 1
+        GUID {5D4A7765-D232-B346-8FDF-264A7508DB5E}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 45144
+        VELLANE 64 100 0
+        CFGEDITVIEW 0 0.061476 72 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 226
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.25 161 4 1217 583 0 0 0 0 0 0 1 0 0 0.8 0 0 1 64
+      >
+    >
+  >
+  <TRACK {F6A9BD32-C52B-6248-A187-BC25E22D0C3E}
+    NAME OHH
+    PEAKCOL 16777471
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F6A9BD32-C52B-6248-A187-BC25E22D0C3E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9C5A86A5-B6FE-4B4E-98BB-B1A73A3F1F8C}
+      IID 11
+      NAME RD-6
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D8093B7D-EEFD-B843-8C06-C239C947D2D0}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {0EFC6067-C11A-F946-856A-962189BD8E29}
+        E 0 90 2e 43
+        E 240 80 2e 00
+        E 720 90 2e 43
+        E 240 80 2e 00
+        E 960 90 2e 43
+        E 240 80 2e 00
+        E 960 90 2e 43
+        E 240 80 2e 00
+        E 240 90 2e 43
+        E 240 80 2e 00
+        E 720 90 2e 43
+        E 240 80 2e 00
+        E 1200 90 2e 43
+        E 240 80 2e 00
+        e 720 90 2e 43
+        e 240 80 2e 00
+        E 240 b0 7b 00
+        CHASE_CC_TAKEOFFS 1
+        GUID {F1767F43-C25E-DD4E-BB8E-9514E247961C}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 45145
+        VELLANE 64 100 0
+        CFGEDITVIEW 48.979592 0.061476 72 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 226
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.25 161 4 1217 583 0 0 0 0 0 0 1 0 0 0.8 0 0 1 64
+      >
+    >
+  >
+  <TRACK {810BC915-4DB8-6346-9AD8-D7D4CF1028B8}
+    NAME CHH
+    PEAKCOL 16777471
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 2 -1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {810BC915-4DB8-6346-9AD8-D7D4CF1028B8}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A568FA38-7BA3-E94A-9BD3-37D87BCFB669}
+      IID 12
+      NAME RD-6
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CDE99B10-B099-204E-9203-710DC1C8BD59}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {4A98AC7C-656F-3D48-8113-D2FBEB520AD8}
+        E 240 90 2a 61
+        E 240 80 2a 00
+        E 240 90 2a 4b
+        E 240 80 2a 00
+        E 240 90 2a 61
+        E 240 80 2a 00
+        E 480 90 2a 4f
+        E 240 80 2a 00
+        E 240 90 2a 61
+        E 240 80 2a 00
+        E 480 90 2a 61
+        E 240 80 2a 00
+        E 240 90 2a 61
+        E 240 80 2a 00
+        E 240 90 2a 61
+        E 240 80 2a 00
+        E 240 90 2a 61
+        E 240 80 2a 00
+        E 480 90 2a 61
+        E 240 80 2a 00
+        E 480 90 2a 61
+        E 240 80 2a 00
+        E 480 90 2a 61
+        E 240 80 2a 00
+        e 0 90 2a 3c
+        e 240 80 2a 00
+        E 0 90 2a 55
+        E 240 80 2a 00
+        E 240 b0 7b 00
+        CHASE_CC_TAKEOFFS 1
+        GUID {9FF7601B-3DDE-AD40-99BA-1D1BF8BCAB49}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 45146
+        VELLANE 64 100 0
+        CFGEDITVIEW 0 0.061476 72 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 226
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.25 161 4 1217 583 0 0 0 0 0 0 1 0 0 0.8 0 0 1 64
+      >
+    >
+  >
+  <TRACK {35FB93A0-1D59-D643-926B-C681D87CC403}
+    NAME RD6
+    PEAKCOL 16810239
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {35FB93A0-1D59-D643-926B-C681D87CC403}
+    PERF 0
+    MIDIOUT 1185
+    <MIDINOTENAMES
+      -1 36 kick 0 36
+      -1 39 Clap 0 39
+      -1 40 Snare 0 40
+      -1 42 CHH 0 42
+      -1 45 LowTom 0 45
+      -1 46 OHH 0 46
+      -1 50 "High Tom" 0 50
+      -1 51 Cym 0 51
+    >
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 4.8
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5757E37A-86F0-9941-94CA-170076B05813}
+      IID 14
+      NAME RD-6
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D35EDA98-5B46-1340-98F9-42565C7DEBFC}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {B9596A06-E29A-5C4B-9B31-698D27437451}
+        e 0 90 24 78
+        E 0 90 33 11
+        E 0 90 2d 59
+        e 240 80 24 00
+        E 0 80 2d 00
+        E 240 90 2a 58
+        E 240 80 33 00
+        E 0 80 2a 00
+        E 240 90 28 58
+        E 0 90 2a 58
+        E 240 80 2a 00
+        E 0 90 2e 58
+        E 240 80 28 00
+        E 0 80 2e 00
+        E 0 90 27 6c
+        E 0 90 2a 58
+        E 480 80 27 00
+        E 0 80 2a 00
+        E 0 90 24 58
+        E 240 80 24 00
+        E 0 90 2a 58
+        E 240 80 2a 00
+        E 0 90 24 49
+        E 0 90 2e 58
+        E 240 80 24 00
+        E 0 80 2e 00
+        E 240 90 28 58
+        E 240 90 2a 58
+        E 240 80 28 00
+        E 0 80 2a 00
+        E 0 90 2e 58
+        E 240 80 2e 00
+        E 240 90 24 58
+        E 0 90 32 59
+        E 240 80 24 00
+        E 0 80 32 00
+        E 0 90 2a 58
+        E 240 80 2a 00
+        E 0 90 2e 58
+        E 0 90 32 59
+        E 240 80 2e 00
+        E 0 80 32 00
+        E 0 90 2a 58
+        E 240 80 2a 00
+        E 0 90 28 58
+        E 240 90 2a 58
+        E 240 80 28 00
+        E 0 80 2a 00
+        E 0 90 27 6c
+        E 240 90 2a 58
+        E 240 80 27 00
+        E 0 80 2a 00
+        E 0 90 24 58
+        E 0 90 2e 58
+        E 0 90 33 21
+        E 240 80 24 00
+        E 0 80 2e 00
+        E 0 90 2a 58
+        E 240 80 2a 00
+        E 0 90 24 58
+        E 240 80 33 00
+        E 0 80 24 00
+        E 0 90 24 41
+        E 0 90 2a 58
+        E 0 90 2d 61
+        E 240 80 24 00
+        E 0 80 2a 00
+        E 0 80 2d 00
+        E 0 90 28 6b
+        E 0 90 2a 58
+        E 0 90 32 61
+        E 240 80 28 00
+        E 0 80 2a 00
+        E 0 80 32 00
+        E 0 90 2e 58
+        E 0 90 2d 61
+        E 240 80 2e 00
+        E 0 80 2d 00
+        E 0 90 28 58
+        E 0 90 2a 58
+        E 0 90 32 61
+        E 240 80 28 00
+        E 0 80 2a 00
+        E 0 80 32 00
+        E 0 90 2d 66
+        E 240 80 2d 00
+        E 0 b0 7b 00
+        CHASE_CC_TAKEOFFS 1
+        GUID {BFDBD776-CE24-EF45-94AE-79E90EA6400B}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 45157
+        VELLANE 64 100 0
+        CFGEDITVIEW -1501.505394 0.061476 72 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 226
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 4 1 1 1 1 1 0.25 161 4 1217 583 0 0 0 0 0 0 1 0 0 0.8 0 0 1 64
+      >
+    >
+  >
+>
